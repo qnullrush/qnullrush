@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/guilds/542210879131877376/users/885232794878505050/banners/a_0835cd18ab00a072090af3c22e900e1f.webp?size=1024&animated=true)
+[![MasterHead](https://cdn.discordapp.com/guilds/542210879131877376/users/885232794878505050/banners/a_0835cd18ab00a072090af3c22e900e1f.webp?size=1024&animated=true)]
 
 <h1 align="center">Hi 👋, I'm NullRush</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
