@@ -6,16 +6,10 @@
  </a>
 </div>
 
-<img src="https://cdn.discordapp.com/banners/1085190783252041738/4175222be210ba3fc06a118760b1c58e.webp?size=1024" alt="Coding" width=200 height=200 align="right">
+<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/GitHub%20Mascot%20Pixel.gif?raw=true" alt="Coding" width=200 height=200 align="right">
 
 
 <h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
-
-- 🔭 I’m currently working on **React**
-
-- 💬 Ask me about **Blockchain**
-
-- 📫 How to reach me **cagatayakkas9191@gmail.com**
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/CagatayAkkas?theme=unicorn)](https://leetcode.com/CagatayAkkas/)
 
